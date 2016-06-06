@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Redwood Seniors]]></title>
+        <description><![CDATA[Redwood Seniors]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 06 Jun 2016 06:53:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d604d489-26b3-4436-94a9-d7a300436bed.jpg">]]></description>
+            <link>undefined8e35c00a-2d59-4d3e-9d3c-7b8f893e8c1b/index.html</link>
+            <guid isPermaLink="false">8e35c00a-2d59-4d3e-9d3c-7b8f893e8c1b</guid>
+            <pubDate>Mon, 06 Jun 2016 05:01:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
