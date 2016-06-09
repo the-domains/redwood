@@ -1,6 +1,6 @@
 name: Redwood
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.7776
 typography_spectrum: 0.3727932018227875
 title: Redwood Seniors
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#07050a'
-    - '#ee014f'
-    - '#3c4b62'
-    - '#ede2e0'
-    - '#ff69ac'
+    - '#5ea8b0'
+    - '#e7dddb'
+    - '#162743'
+    - '#6d0019'
+    - '#cf2741'
   brandStrength: 0.375
   lightness: 0.4375
   saturation: 0.3790817130357027
