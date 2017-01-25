@@ -1,20 +1,4 @@
-name: Redwood
-favicon: null
-layout_spectrum: 0.7776
 typography_spectrum: 0.3727932018227875
-title: Redwood Seniors
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#5ea8b0'
@@ -26,4 +10,40 @@ color:
   lightness: 0.4375
   saturation: 0.3790817130357027
   rhythmicContrast: 0.841265578288585
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: facebook.com/redwoodpics
+layout_spectrum: 0.7776
+analytics:
+  google: null
+  facebook: null
+  twitter: '@redwoodpics'
+name: Redwood
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Redwood Seniors
+    url: 'http://seniors'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6e4aef-3546-4950-bb58-9591971382b9.png
+title: Redwood
+purpose:
+  - type: contact
+    url: 'tel:5177310354'
+    label: Call Us
+  - type: contact
+    url: 'mailto:redwoodstudiosgrandledge@gmail.com'
+    label: Email us
+content: []
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/008e7629-beaf-403f-afc6-5e98b552e559.png
+author:
+  name: Yvonne Fleener
+  email: redwoodstudiosonline@gmail.com
+  url: 'http://www.redwoodstudiosonline.com'
+description: Portraits for Interesting People
+github: true
