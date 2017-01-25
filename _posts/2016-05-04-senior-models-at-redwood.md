@@ -1,23 +1,19 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
 inLanguage: null
 keywords: []
-description: 'Senior Models at Redwood!!'
-datePublished: '2016-05-04T04:19:29.157Z'
-dateModified: '2016-05-04T04:19:19.313Z'
+description: Senior Models at Redwood!!
+datePublished: '2017-01-25T21:38:11.620Z'
+dateModified: '2017-01-25T21:38:11.100Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-senior-models-at-redwood.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
 starred: true
+datePublishedOriginal: '2016-05-04T04:19:29.157Z'
 url: senior-models-at-redwood/index.html
 _type: Blurb
 
